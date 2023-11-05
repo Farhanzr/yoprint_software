@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'FiraCode';
+    src: url('../fonts/FiraCode.ttf') format('truetype');
+}
